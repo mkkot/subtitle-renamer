@@ -11,7 +11,9 @@ Honestly, I don't think this script will be very useful to anyone. In the curren
 ## Usage
 
 subtitle-renamer.py /path/to/directory/with/series
+
 or
+
 just subtitle-renamer.py if you're using Thunar with "Mouse cursor activates the window".
 
 ## Requirements
